@@ -1,0 +1,15 @@
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\bin\Debug\net6.0\A3STRING.exe
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\bin\Debug\net6.0\A3STRING.deps.json
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\bin\Debug\net6.0\A3STRING.runtimeconfig.json
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\bin\Debug\net6.0\A3STRING.dll
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\bin\Debug\net6.0\ref\A3STRING.dll
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\bin\Debug\net6.0\A3STRING.pdb
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.csproj.AssemblyReference.cache
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.AssemblyInfoInputs.cache
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.AssemblyInfo.cs
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.dll
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\ref\A3STRING.dll
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.pdb
+C:\Users\Brandon\RiderProjects\A3STRING\A3STRING\obj\Debug\net6.0\A3STRING.genruntimeconfig.cache
